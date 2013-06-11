@@ -1,7 +1,9 @@
 Alfa
+Bravo
 Charlie
 Delta
 Echo
+Foxtrot
 Golf
 India
 Kilo
